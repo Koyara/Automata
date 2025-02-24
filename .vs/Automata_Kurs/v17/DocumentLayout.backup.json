@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marko\\source\\repos\\Automata_Kurs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA56232-05EF-4992-A5EC-2B7C2C522636}|Automata_Kurs\\Automata_Kurs.csproj|c:\\users\\marko\\source\\repos\\automata_kurs\\automata_kurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA56232-05EF-4992-A5EC-2B7C2C522636}|Automata_Kurs\\Automata_Kurs.csproj|solutionrelative:automata_kurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA56232-05EF-4992-A5EC-2B7C2C522636}|Automata_Kurs\\Automata_Kurs.csproj|c:\\users\\marko\\source\\repos\\automata_kurs\\automata_kurs\\library\\dfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA56232-05EF-4992-A5EC-2B7C2C522636}|Automata_Kurs\\Automata_Kurs.csproj|solutionrelative:automata_kurs\\library\\dfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA56232-05EF-4992-A5EC-2B7C2C522636}|Automata_Kurs\\Automata_Kurs.csproj|c:\\users\\marko\\source\\repos\\automata_kurs\\automata_kurs\\library\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA56232-05EF-4992-A5EC-2B7C2C522636}|Automata_Kurs\\Automata_Kurs.csproj|solutionrelative:automata_kurs\\library\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA56232-05EF-4992-A5EC-2B7C2C522636}|Automata_Kurs\\Automata_Kurs.csproj|c:\\users\\marko\\source\\repos\\automata_kurs\\automata_kurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA56232-05EF-4992-A5EC-2B7C2C522636}|Automata_Kurs\\Automata_Kurs.csproj|solutionrelative:automata_kurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA56232-05EF-4992-A5EC-2B7C2C522636}|Automata_Kurs\\Automata_Kurs.csproj|c:\\users\\marko\\source\\repos\\automata_kurs\\automata_kurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFA56232-05EF-4992-A5EC-2B7C2C522636}|Automata_Kurs\\Automata_Kurs.csproj|solutionrelative:automata_kurs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\source\\repos\\Automata_Kurs\\Automata_Kurs\\Program.cs",
+              "RelativeDocumentMoniker": "Automata_Kurs\\Program.cs",
+              "ToolTip": "C:\\Users\\marko\\source\\repos\\Automata_Kurs\\Automata_Kurs\\Program.cs",
+              "RelativeToolTip": "Automata_Kurs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:22:35.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\source\\repos\\Automata_Kurs\\Automata_Kurs\\Library\\Operations.cs",
+              "RelativeDocumentMoniker": "Automata_Kurs\\Library\\Operations.cs",
+              "ToolTip": "C:\\Users\\marko\\source\\repos\\Automata_Kurs\\Automata_Kurs\\Library\\Operations.cs",
+              "RelativeToolTip": "Automata_Kurs\\Library\\Operations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:11:45.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DFA.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\source\\repos\\Automata_Kurs\\Automata_Kurs\\Library\\DFA.cs",
+              "RelativeDocumentMoniker": "Automata_Kurs\\Library\\DFA.cs",
+              "ToolTip": "C:\\Users\\marko\\source\\repos\\Automata_Kurs\\Automata_Kurs\\Library\\DFA.cs*",
+              "RelativeToolTip": "Automata_Kurs\\Library\\DFA.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:10:05.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\source\\repos\\Automata_Kurs\\Automata_Kurs\\Form1.cs",
+              "RelativeDocumentMoniker": "Automata_Kurs\\Form1.cs",
+              "ToolTip": "C:\\Users\\marko\\source\\repos\\Automata_Kurs\\Automata_Kurs\\Form1.cs",
+              "RelativeToolTip": "Automata_Kurs\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:02:42.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marko\\source\\repos\\Automata_Kurs\\Automata_Kurs\\Form1.cs",
+              "RelativeDocumentMoniker": "Automata_Kurs\\Form1.cs",
+              "ToolTip": "C:\\Users\\marko\\source\\repos\\Automata_Kurs\\Automata_Kurs\\Form1.cs [Design]",
+              "RelativeToolTip": "Automata_Kurs\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:58:30.563Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
